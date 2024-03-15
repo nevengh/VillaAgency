@@ -1,0 +1,27 @@
+.slider-content{
+    position: absolute;
+    z-index: 5;
+    color: #fff;
+    top: 30%;
+    left: 20%;
+}
+.slider-content .text-1 p{
+    background-color: #fff;
+    color: #1e1e1e;
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: capitalize;
+    padding: 6px 15px;
+    display: inline-block;
+    margin-bottom: 30px;
+}
+.slider-content .text-1 p span{
+    color: #f35525;
+}
+.slider-content .text-2 h1{
+    font-size: 62px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #fff;
+  line-height: 72px;
+}

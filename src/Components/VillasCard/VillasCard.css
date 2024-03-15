@@ -1,0 +1,50 @@
+.sec-6-card{
+    background-color: #fafafa;
+    border-radius: 10px;
+    padding: 30px;
+    margin-bottom: 30px;
+    
+}
+.sec-6-card img{
+    border-radius: 10px;
+}
+.sec-6-card p{
+    width: 120px;
+    background-color: #fbd9cf;
+  font-weight: 500;
+  border-radius: 5px;
+  font-size: 14px;
+  color: #1e1e1e;
+  padding: 5px 12px;
+  margin-top: 25px;
+}
+.sec-6-card h6{
+    font-size: 20px;
+  color: #f35525;
+  margin-top: 6px;
+  margin-top: 30px;
+}
+.card-line-3 h5{
+    font-size: 15px;
+  color: #4a4a4a;
+}
+.last-card{
+    padding-bottom: 20px;
+    border-bottom: 1px solid #aaa;
+}
+.visit-btn a{
+    display: inline-block;
+  background-color: #1e1e1e;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+  height: 40px;
+  line-height: 40px;
+  padding: 0px 30px;
+  border-radius: 25px;
+  transition: all .3s;
+}
+.visit-btn a:hover{
+    background-color: #f35525;
+  color: #fff;
+}
