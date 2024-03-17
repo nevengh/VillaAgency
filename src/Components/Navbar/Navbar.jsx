@@ -16,8 +16,8 @@ const Navbar = () => {
                 <ul className={isOpen ? " active" : "nav-links"}>
                     <li><Link to='/'>Home</Link></li>
                     <li><Link to='Properties' >Properties</Link></li>
-                    <li><Link to='PropertiesDetails' >Property Details</Link></li>
-                    <li><Link to='Contactus' >Contact Us</Link></li>
+                    <li><Link to='propertyDetails' >Property Details</Link></li>
+                    <li><Link to='contact' >Contact Us</Link></li>
                     <li className='visit-item ms-5'>
                     <div className="schedual-visit d-flex align-center justify-center">
                       <button>
