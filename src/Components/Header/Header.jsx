@@ -13,7 +13,7 @@ const Header = () => {
   return (
     <div className="header">
       <div className="container">
-        <div className="top-banner flex-between d-flex">
+        <div className="top-banner justify-between d-flex">
           <ul className="info d-flex">
             <li>
               <FaEnvelope />

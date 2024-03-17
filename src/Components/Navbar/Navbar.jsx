@@ -14,7 +14,7 @@ const Navbar = () => {
         <div className="container">
                 <div className="nav-logo">Villa</div>
                 <ul className={isOpen ? " active" : "nav-links"}>
-                    <li><Link to='/'>Home</Link></li>
+                    <li><Link to='/VillaAgency'>Home</Link></li>
                     <li><Link to='Properties' >Properties</Link></li>
                     <li><Link to='propertyDetails' >Property Details</Link></li>
                     <li><Link to='contact' >Contact Us</Link></li>
