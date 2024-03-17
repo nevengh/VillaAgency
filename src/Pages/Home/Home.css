@@ -488,11 +488,11 @@
     
   }
 
-  @media (max-width:370px){
+  @media (max-width:400px){
     .sec-6-card {
       background-color: #fafafa;
       border-radius: 10px;
-      padding: 0;
+      padding: 0 !important;
       margin-bottom: 30px;
     }
     .deal-img img {
