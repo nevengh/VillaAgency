@@ -40,7 +40,7 @@ const Nav = () => {
                 </ul>
             </div>
             </div>
-        <nav className="navbar navbar-expand-lg bg-body-tertiary">
+        <nav className="navbar navbar-expand-lg">
             <div className="container">
             <Link to="/" className="navbar-brand" href="#">
                 Villa
