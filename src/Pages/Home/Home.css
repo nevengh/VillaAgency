@@ -489,6 +489,12 @@
   }
 
   @media (max-width:370px){
+    .sec-6-card {
+      background-color: #fafafa;
+      border-radius: 10px;
+      padding: 0;
+      margin-bottom: 30px;
+    }
     .deal-img img {
         margin-top: 30px;
         margin-bottom: 30px;
